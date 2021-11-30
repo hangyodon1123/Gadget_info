@@ -46,6 +46,7 @@ Numworks N0110 | rechargeable | | Omega
 item | main battries | sub | etc
 --- | --- | --- | ---
 PC-G850V | 単4(AAA)x4 | | LCD NG
+EL-5120 | CR2025x1 | | LCD NG
 EL-520F | solar | LR44x2 |
 EL-546R | solar | LR44x2 | LCD NG
 
