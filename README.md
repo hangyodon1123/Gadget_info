@@ -1,5 +1,5 @@
 # Gadget_info
-Batteries used in pocket computers and calculators.
+Batteries used in my pocket computers and calculators.
 
 ## Canon
 item | main battries | sub | etc
@@ -13,7 +13,7 @@ pocket-mini P-810 | 単3(AA)x2 | |
 pocket-mini CP-801B | 単3(AA)x2 | |
 fx-570W | LR44x1 | |
 fx-4500P | CR2025x1 | CR1216x1 |
-fx-5000f | CR2032x2 | |
+fx-5000F | CR2032x2 | |
 fx-5800P | 単4(AAA)x1 | |
 fx-JP900 | solar | LR44x1 |
 fx-CG10 | 単4(AAA)x4 | |
