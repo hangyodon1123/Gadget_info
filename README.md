@@ -19,6 +19,11 @@ fx-JP900 | solar | LR44x1 |
 fx-CG10 | 単4(AAA)x4 | |
 fx-CG50 | 単4(AAA)x4 | |
 
+## CITIZEN
+item | main battries | sub | etc
+--- | --- | --- | ---
+SRP-45N | LR44x2 | |
+
 ## HP
 item | main battries | sub | etc
 --- | --- | --- | ---
